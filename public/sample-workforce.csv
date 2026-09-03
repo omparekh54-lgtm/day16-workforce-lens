@@ -1,0 +1,5 @@
+date,team,role,employee_id,scheduled_hours,productive_hours,absence_hours,demand_units
+2026-08-03,Fulfillment,Associate,F01,8,7.2,0,88
+2026-08-03,Fulfillment,Associate,F02,8,7.0,0,84
+2026-08-03,Support,Agent,S01,8,6.4,0,56
+2026-08-03,Support,Agent,S02,8,6.0,0,50
